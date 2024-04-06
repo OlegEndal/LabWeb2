@@ -4,6 +4,4 @@ body {
     background-size: contain;
     background-repeat: repeat;
   }
-  body {
-    backdrop-filter: blur(5px);
-  }
+  body { backdrop-filter:
