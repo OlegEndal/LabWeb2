@@ -2,8 +2,9 @@ body {background-color: blue}
 body {
     background-image: url("../Med/mosaic.jpg");
     background-size: contain;
-    background-repeat: repeat;
-  }
-  body {
+    background-repeat: no-repeat;
     backdrop-filter: blur(5px);
-  }
+}
+ul{
+
+}
